@@ -17,12 +17,12 @@ function ProductTable() {
               <Table.ColumnHeader colspan="2">Sporting Goods</Table.ColumnHeader>
             </Table.Row>
             <Table.Row>
-              <Table.Column>Tennis Tae Poopoo</Table.Column>
-              <Table.Column>49.99</Table.Column>
+              <Table.Column>Tennis</Table.Column>
+              <Table.Column>Tae Poopoo Pesos</Table.Column>
             </Table.Row>
             <Table.Row>
-              <Table.Column>Badminton Ihi</Table.Column>
-              <Table.Column>9.99</Table.Column>
+              <Table.Column>Badminton</Table.Column>
+              <Table.Column>Ihi Pesos</Table.Column>
             </Table.Row>
             <Table.Row>
               <Table.Column>Basketball</Table.Column>
